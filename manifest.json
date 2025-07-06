@@ -3,6 +3,7 @@
   "short_name": "Tickets",
   "start_url": "index.html",
   "display": "standalone",
+  "scope": "./",
   "background_color": "#ffffff",
   "theme_color": "#4A90E2",
   "icons": [
