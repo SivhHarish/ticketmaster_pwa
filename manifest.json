@@ -1,7 +1,7 @@
 {
   "name": "Ticket Master",
   "short_name": "Tickets",
-  "start_url": ".",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4A90E2",
